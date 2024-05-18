@@ -28,9 +28,9 @@ severity_mapping = []
 tags = [
     "OS: Linux",
     "Use Case: Threat Detection",
+    "Use Case: Demo",
     "Tactic: Command and Control",
     "Data Source: Elastic Defend",
-    "DEMO".
 ]
 timestamp_override = "event.ingested"
 to = "now"
