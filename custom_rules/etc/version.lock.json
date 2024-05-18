@@ -1,1 +1,14 @@
-{}
+{
+  "794d2fc0-ecd0-4963-99da-fd587666b80d": {
+    "rule_name": "DAC Demo Dev Rule 1",
+    "sha256": "5a02e242f34b4db6617fcadd843e5ba119a95612ce7e17032ec56326a7a851d9",
+    "type": "eql",
+    "version": 1
+  },
+  "e8e3af2a-11b8-4ab7-9ca1-c6db621ea89d": {
+    "rule_name": "DAC Demo Dev Rule 2",
+    "sha256": "edf3a6d599d1742cdeaaf257da664deada8404e1f103e98a4c13390ab14d7e1d",
+    "type": "eql",
+    "version": 1
+  }
+}
